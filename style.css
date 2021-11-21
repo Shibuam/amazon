@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+}
+body {
+    color: #0F1111;
+    font-family:Auto;
+}
+.header{
+    display: flex;
+    background-color:#261f1f;
+}
+.nav{
+    background-color:#0f171e ;
+    width: 100%;
+    text-align: right;
+    padding: 30px;
+    
+}
+.header .nav a{
+    background-color:#0f171e ;
+    color: white;
+    border: none;
+    text-decoration: none;
+    margin: 40px;
+}
+.logo
+{
+    padding: 0;
+    text-align: right;
+}
+.header .logo img{
+    height: 90px;
+        width: 209px;
+}
+select{
+    background-color:#0f171e ;
+    color:white;
+    border: none;
+}
+.image1{
+    background-image: url(./MLP_V2.jpg);
+    margin-bottom: 5px;
+    height: 500px;
+    width: 100%;
+    color: white;
+}
+.margin{
+    margin: 50px;
+}
+.image1 a{
+    text-decoration: none;
+    margin: 70px 50px;
+    color: white;
+    background-color:#0f79af;
+    border-radius: 1px;
+    padding: 20px 40px;
+}
+h6{
+    font-size: 20px;
+    margin: 40px;
+}
+.row{
+    display: flex;
+    margin-bottom: 5px;
+}
+.col1{
+    flex-basis: 50%;
+}
+.col2{
+    flex-basis: 50%;
+
+
+   
+}
+.img2{
+
+    width: 100%;
+   
+}
+.row .col2 img{
+    display:flexbox;
+    height: 125px;
+        width: 174px;
+    
+}
+.row .col2 :hover{
+    background-color: #0f79af;
+}
+.family{
+    background-image: url(./IN-kids-30Jan._CB1517304519_.jpg);
+    height: 500px;
+   
+    background-size: cover;
+    color: white;
+    padding: 50px 50px;
+}
+.row1{
+    display: flex;
+    width: 100%;
+}
+.col3{
+    background-image:url(./PRIME_multi-benefit_MAGNET_2X._CB1519820207_.jpg);
+ height: 500px;
+    color:white;
+    width: 100%;
+    
+}
+.row2{
+    background-image: url(./MLP_Template_Image_Left.jpg);
+    height:500px;
+width:100%;
+
+}
+.row2 h2,h5{
+    color: white;
+    text-align: right;
+    padding-right: 40px;
+    font-size: 20px;
+}
+
+.row3{
+    display: flex;
+    margin: 20px 50px;
+    padding: 20px 50px;
+}
+.cola{
+    flex-basis: 30%;
+    padding: 5px;
+    text-align: center;
+}
+.row4{
+    background-image: url(./IN-kids-30Jan._CB1517304519_.jpg);
+    height: 500px;
+    width:100%;
+background-size: cover;
+}
+.footLogo{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:20px 0px;
+
+}
+
+.get{
+    margin-top: 50px;
+}
+.family .get a{
+    text-decoration: none;
+    margin: 70px 50px;
+    color: white;
+    background-color: #0f79af;
+    border-radius: 1px;
+    padding: 20px 40px;
+}
+h2{
+    padding: 50px;
+}
+
+p{
+    margin:20px 50px ;
+    font-size: 20px;
+}
+.row1 .col3 a{
+    text-decoration: none;
+    margin: 70px 50px;
+    color: white;
+    background-color: #0f79af;
+    border-radius: 1px;
+    padding: 20px 40px;
+}
+
+
+
